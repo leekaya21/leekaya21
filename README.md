@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leekaya21
+- 👋 Hi, I’m Kaya
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything if i could learn a bit
